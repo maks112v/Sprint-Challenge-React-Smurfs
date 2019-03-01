@@ -6,7 +6,6 @@ Client side is done on the users computer with a dom router while server side re
 
 HyperText Transfer Protocol
 
-
 1.  What does CRUD stand for?
 
 Create Read Update Delete
